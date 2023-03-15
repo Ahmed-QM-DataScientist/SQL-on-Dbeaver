@@ -1,4 +1,4 @@
---Drop table olymbics;
+ --Drop table olymbics;
 
 DROP TABLE IF EXISTS public.olymbics;
 
