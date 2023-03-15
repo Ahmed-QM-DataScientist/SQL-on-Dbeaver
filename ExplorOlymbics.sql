@@ -801,3 +801,9 @@ select* from d4
 -- let us count which sport were played in every year ?
 
 Join d2 on d2.SUMMER_GAMES = d4.total_of_games;
+--Results
+"Swimming" 29  
+"Cycling" 29  
+"Fencing" 29  
+"Gymnastics" 29  
+"Athletics" 29  
