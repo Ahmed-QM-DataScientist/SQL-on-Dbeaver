@@ -1,1 +1,1 @@
-# SQL-on-Dbeaver
+# SQL-on-Dbeaver-&-pgAdmin
