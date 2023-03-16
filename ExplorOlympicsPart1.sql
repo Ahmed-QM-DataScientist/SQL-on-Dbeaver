@@ -798,7 +798,7 @@ select* from d4
 "Archery"	16
 -- so as we see wrestling for example has been part of 28 summer olympic games
 
--- let us count which sport were played in every year ?
+-- now let us count which sport were played in every year ?
 
 Join d2 on d2.SUMMER_GAMES = d4.total_of_games;
 --Results
